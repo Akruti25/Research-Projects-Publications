@@ -23,8 +23,8 @@ Here's a list of all my research projects/publications:
    - Can befound [here](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003257714-2/artificial-intelligence-iot-assisted-sustainable-manufacturing-industry-4-0-gaurav-srivastava-devika-sapra-akruti-sinha-mahin-anup-deepak-sinwar).
 6. ### Stock market: Price Prediction using various Machine Learning algorithms and Sentiment Analysis using Natural Language Processing (PPML-SANLP)
    - Used both Machine Learning and Natural Language Processing to identify stock price trends and enable layman users to trade on a consistent basis profitably
-   - Accepted for publication in 8th International Conference on Information and Communication Technology for Competitive Strategies (ICTCS-2023)
-   - Publishing pending.
+   - Published in [Lecture Notes in Networks and Systems](https://www.springer.com/series/15179).
+   - The published article can be viewed from this [link](https://link.springer.com/chapter/10.1007/978-981-97-0210-7_38).
 7. ### Application of Blockchain in Healthcare
    - Summarizes recent research into how blockchain technology can be successfully implemented in the healthcare field.
    - Presented and published the paper at the International Conference on Artificial Intelligence Trends and Pattern Recognition (ICAITPR 2022)
